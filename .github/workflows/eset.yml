@@ -1,7 +1,7 @@
 name: Generator
 
 on:
-  # Allows you to run this workflow manually from the Actions tab
+  # Allows you to run this workflow manually from the Actions ta
   workflow_dispatch:
     inputs:
       account:
